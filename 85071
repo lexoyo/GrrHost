@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <link href="Midnight%20Shelter%20Logo.jpg" rel="shortcut icon">
+
+    <title>Fictional Design Studio</title>
+    <meta charset="UTF-8">
+    <meta name="generator" content="Silex v2.2.6">
+    <!-- leave this for stats -->
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+
+    <script async="" src="//www.google-analytics.com/analytics.js"></script>
+    <script type="text/javascript" src="//editor.silex.me/static/2.6/jquery.js" data-silex-static=""></script>
+    <script type="text/javascript" src="//editor.silex.me/static/2.6/jquery-ui.js" data-silex-static=""></script>
+    <script type="text/javascript" src="//editor.silex.me/static/2.6/pageable.js" data-silex-static=""></script>
+    <script type="text/javascript" src="//editor.silex.me/static/2.6/front-end.js" data-silex-static=""></script>
+    <!-- Silex style -->
+    <link href="//editor.silex.me/static/2.6/front-end.css" rel="stylesheet" data-silex-static="">
+    <!-- Normalize -->
+    <link href="//editor.silex.me/static/2.6/normalize.css" rel="stylesheet" data-silex-static="">
+    <style type="text/css" class="silex-style">
+        @import url('//fonts.googleapis.com/css?family=Abel');
+        body, font {
+            font-family:'Abel',sans-serif;
+        }
+        .nav-buttons:hover, .nav-buttons.page-link-active{
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+    </style>
+
+
+
+
+
+
+    <style id="current-page-style">
+        .page-home{display:inherit; }
+    </style>
+
+
+    <script type="text/javascript" class="silex-script"></script>
+    <style class="silex-inline-styles" type="text/css">
+        .silex-id-1439547078652-33 {
+            cursor: auto;
+            background-image: url('http://editor.silex.me/api/1.0/github/exec/get/silex-templates/wip/templates/fictional-studio/assets/background-texture.jpg');
+            background-color: transparent;
+            border-top-color: rgb(0, 0, 0);
+            border-right-color: rgb(0, 0, 0);
+            border-bottom-color: rgb(0, 0, 0);
+            border-left-color: rgb(0, 0, 0);
+        }
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1439547078652-33 {
+            background-repeat: repeat;
+        }
+        }.silex-id-1439547078449-31 {
+            background-color: transparent;
+            background-image: url('http://editor.silex.me/api/1.0/github/exec/get/silex-templates/wip/templates/fictional-studio/assets/header-texture.jpg');
+            top: 0px;
+            left: 0px;
+            right: 0px;
+            min-height: 115px;
+        }
+        .silex-id-1439547078348-30 {
+            background-color: transparent;
+            background-image: url('http://editor.silex.me/api/1.0/github/exec/get/silex-templates/wip/templates/fictional-studio/assets/header-texture.jpg');
+            top: 773px;
+            left: 0px;
+            right: 0px;
+            min-height: 100px;
+        }
+        .silex-id-1439547078142-28 {
+            top: 0px;
+            left: 0px;
+            right: 0px;
+            background-color: rgba(0, 0, 0, 0.631373);
+            min-height: 114px;
+        }
+        .silex-id-1478610004722-9 {
+            min-height: 98px;
+            width: 787px;
+            top: 11px;
+            left: 9px;
+        }
+        .silex-id-1439547076512-12 {
+            background-color: transparent;
+            top: 24px;
+            left: 1368px;
+            width: 475px;
+            min-height: 65px;
+        }
+        .silex-id-1478608826642-2 {
+            min-height: 29px;
+            width: 61px;
+            top: 20px;
+            left: 85px;
+        }
+        .silex-id-1478608634121-1 {
+            min-height: 24px;
+            width: 53px;
+            top: 21px;
+            left: 12px;
+        }
+        .silex-id-1478609118450-5 {
+            min-height: 24px;
+            width: 100px;
+            top: 19px;
+            left: 358px;
+        }
+        .silex-id-1478609037120-4 {
+            min-height: 27px;
+            width: 82px;
+            top: 19px;
+            left: 254px;
+        }
+        .silex-id-1478608960677-3 {
+            min-height: 26px;
+            width: 69px;
+            top: 20px;
+            left: 164px;
+        }
+        .silex-id-1478611447273-0 {
+            min-height: 100px;
+            width: 100px;
+            background-color: rgb(255, 255, 255);
+            top: 100px;
+            left: 849px;
+        }
+        .silex-id-1478611453814-1 {
+            min-height: 100px;
+            width: 100px;
+            background-color: rgb(255, 255, 255);
+            top: 100px;
+            left: 849px;
+        }
+        .silex-id-1478693644188-0 {
+            min-height: 790px;
+            width: 1024px;
+            top: 100px;
+            left: 767px;
+        }
+        .silex-id-1478693662875-1 {
+            min-height: 790px;
+            width: 1024px;
+            top: 100px;
+            left: 767px;
+        }
+    </style>
+
+
+
+
+
+
+
+
+    <script type="text/javascript" class="silex-json-styles">
+        [{"desktop":{"silex-id-1439547078652-33":{"cursor":"auto","background-image":"url('http://editor.silex.me/api/1.0/github/exec/get/silex-templates/wip/templates/fictional-studio/assets/background-texture.jpg')","background-color":"transparent","border-top-color":"rgb(0, 0, 0)","border-right-color":"rgb(0, 0, 0)","border-bottom-color":"rgb(0, 0, 0)","border-left-color":"rgb(0, 0, 0)"},"silex-id-1439547078551-32":{"top":"5px","left":"5px","background-color":"rgb(255, 255, 255)","min-height":"10px"},"silex-id-1439547078449-31":{"background-color":"transparent","background-image":"url('http://editor.silex.me/api/1.0/github/exec/get/silex-templates/wip/templates/fictional-studio/assets/header-texture.jpg')","top":"0px","left":"0px","right":"0px","min-height":"115px"},"silex-id-1439547078348-30":{"background-color":"transparent","background-image":"url('http://editor.silex.me/api/1.0/github/exec/get/silex-templates/wip/templates/fictional-studio/assets/header-texture.jpg')","top":"773px","left":"0px","right":"0px","min-height":"100px"},"silex-id-1439547078245-29":{"background-color":"rgba(0, 0, 0, 0.635294)","top":"0px","left":"0px","bottom":"0px","right":"0px"},"silex-id-1439547078142-28":{"top":"0px","left":"0px","right":"0px","background-color":"rgba(0, 0, 0, 0.631373)","min-height":"114px"},"silex-id-1439547078040-27":{"top":"5px","left":"502px","width":"832px","background-color":"transparent","background-repeat-x":"repeat","background-repeat-y":"repeat","min-height":"854px"},"silex-id-1439547077940-26":{"background-color":"rgba(2, 24, 57, 0.803922)","border-top-left-radius":"10px","border-top-right-radius":"10px","border-bottom-right-radius":"10px","border-bottom-left-radius":"10px","top":"132px","left":"18px","width":"800px","min-height":"400px"},"silex-id-1439547077839-25":{"background-color":"transparent","top":"119px","left":"296.5px","width":"249px","min-height":"239px"},"silex-id-1439547077734-24":{"background-position-x":"0%","background-position-y":"0%","top":"118px","left":"45px","width":"236px","min-height":"211px"},"silex-id-1439547077633-23":{"top":"135px","left":"526px","width":"261px","min-height":"261px"},"silex-id-1439547077532-22":{"border-top-width":"1px","border-right-width":"1px","border-bottom-width":"1px","border-left-width":"1px","border-top-style":"outset","border-right-style":"outset","border-bottom-style":"outset","border-left-style":"outset","border-image-source":"initial","border-image-slice":"initial","border-image-width":"initial","border-image-outset":"initial","border-image-repeat":"initial","border-top-left-radius":"15px","border-top-right-radius":"15px","border-bottom-right-radius":"15px","border-bottom-left-radius":"15px","top":"309px","left":"205px","width":"136px","background-color":"rgb(49, 142, 255)","border-top-color":"rgb(255, 255, 255)","border-right-color":"rgb(255, 255, 255)","border-bottom-color":"rgb(255, 255, 255)","border-left-color":"rgb(255, 255, 255)","min-height":"29px"},"silex-id-1439547077428-21":{"background-color":"transparent","top":"3px","left":"23px","width":"94px","border-top-color":"rgb(0, 0, 0)","border-right-color":"rgb(0, 0, 0)","border-bottom-color":"rgb(0, 0, 0)","border-left-color":"rgb(0, 0, 0)","min-height":"43px"},"silex-id-1439547077327-20":{"background-color":"transparent","top":"490px","left":"1593px","width":"732px","min-height":"120px"},"silex-id-1439547077223-19":{"background-color":"transparent","top":"547px","left":"31px","width":"250px","min-height":"167px"},"silex-id-1439547077120-18":{"background-color":"transparent","top":"547px","left":"550px","width":"250px","min-height":"167px"},"silex-id-1439547077020-17":{"background-color":"transparent","top":"547px","left":"290px","width":"250px","min-height":"167px"},"silex-id-1439547076919-16":{"top":"791px","left":"695px","width":"100px","min-height":"55px"},"silex-id-1439547076816-15":{"background-color":"transparent","top":"808px","left":"18px","width":"409px","min-height":"33px"},"silex-id-1439547076715-14":{"background-color":"rgba(0, 0, 0, 0.498039)","border-top-left-radius":"15px","border-top-right-radius":"15px","border-bottom-right-radius":"15px","border-bottom-left-radius":"15px","top":"807px","left":"555px","width":"132px","min-height":"29px"},"silex-id-1439547076614-13":{"background-color":"transparent","top":"2px","left":"15px","width":"119px","min-height":"20px"},"silex-id-1439547076512-12":{"background-color":"transparent","top":"24px","left":"1368px","width":"475px","min-height":"65px"},"silex-id-1439547076411-11":{"background-color":"transparent","border-top-left-radius":"10px","border-top-right-radius":"10px","border-bottom-right-radius":"10px","border-bottom-left-radius":"10px","top":"0px","left":"352px","width":"93px","min-height":"46px"},"silex-id-1439547076310-10":{"background-color":"transparent","top":"14px","left":"2px","width":"77px","min-height":"24px"},"silex-id-1439547076208-9":{"background-color":"transparent","border-top-left-radius":"10px","border-top-right-radius":"10px","border-bottom-right-radius":"10px","border-bottom-left-radius":"10px","top":"0px","left":"269px","width":"73px","min-height":"46px"},"silex-id-1439547076106-8":{"background-color":"transparent","top":"8px","left":"19px","width":"54px","min-height":"24px"},"silex-id-1439547076005-7":{"background-color":"transparent","border-top-left-radius":"10px","border-top-right-radius":"10px","border-bottom-right-radius":"10px","border-bottom-left-radius":"10px","top":"0px","left":"185px","width":"73px","min-height":"46px"},"silex-id-1439547075903-6":{"top":"11px","left":"8px","width":"54px","background-color":"transparent","min-height":"24px"},"silex-id-1439547075802-5":{"background-color":"transparent","border-top-left-radius":"10px","border-top-right-radius":"10px","border-bottom-right-radius":"10px","border-bottom-left-radius":"10px","top":"0px","left":"101px","width":"73px","min-height":"46px"},"silex-id-1439547075701-4":{"background-color":"transparent","top":"12px","left":"12px","width":"54px","min-height":"24px"},"silex-id-1439547075600-3":{"background-color":"transparent","border-top-left-radius":"10px","border-top-right-radius":"10px","border-bottom-right-radius":"10px","border-bottom-left-radius":"10px","top":"0px","left":"17px","width":"73px","min-height":"46px"},"silex-id-1439547075498-2":{"background-color":"transparent","top":"17px","left":"5px","width":"54px","min-height":"24px"},"silex-id-1439547075398-1":{"top":"15px","left":"26px","width":"57px","min-height":"71px"},"silex-id-1439547075296-0":{"background-color":"transparent","top":"20px","left":"97px","width":"75px","min-height":"63px"},"silex-id-1471341923987-2":{"min-height":"544px","width":"795px","top":"130px","left":"21px"},"silex-id-1478608606028-0":{"min-height":"39px","width":"68px","background-color":"transparent","top":"12px","left":"12px"},"silex-id-1478608634121-1":{"min-height":"24px","width":"53px","top":"21px","left":"12px"},"silex-id-1478608826642-2":{"min-height":"29px","width":"61px","top":"20px","left":"85px"},"silex-id-1478608960677-3":{"min-height":"26px","width":"69px","top":"20px","left":"164px"},"silex-id-1478609037120-4":{"min-height":"27px","width":"82px","top":"19px","left":"254px"},"silex-id-1478609118450-5":{"min-height":"24px","width":"100px","top":"19px","left":"358px"},"silex-id-1478609865909-8":{"min-height":"105px","width":"802px","top":"-15px","left":"3px"},"silex-id-1478610004722-9":{"min-height":"98px","width":"787px","top":"11px","left":"9px"},"silex-id-1478611447273-0":{"min-height":"100px","width":"100px","background-color":"rgb(255, 255, 255)","top":"100px","left":"849px"},"silex-id-1478611453814-1":{"min-height":"100px","width":"100px","background-color":"rgb(255, 255, 255)","top":"100px","left":"849px"},"silex-id-1478693644188-0":{"min-height":"790px","width":"1024px","top":"100px","left":"767px"},"silex-id-1478693662875-1":{"min-height":"790px","width":"1024px","top":"100px","left":"767px"}},"mobile":{"silex-id-1439547077839-25":{"top":"206px","left":"11px","width":"401px","min-height":"84px"},"silex-id-1439547075296-0":{"top":"2px","left":"11px","width":"423px","min-height":"68px","background-color":"rgba(2,24,57,0.803921568627451)","border-radius":"10px 10px 10px 10px "},"silex-id-1439547078652-33":{"background-image":"","background-repeat":"repeat"},"silex-id-1439547077223-19":{"top":"523px","left":"11px","width":"423px","min-height":"84px"},"silex-id-1439547077120-18":{"top":"607px","left":"11px","width":"423px","min-height":"84px"},"silex-id-1439547077020-17":{"top":"691px","left":"11px","width":"423px","min-height":"84px"},"silex-id-1439547078040-27":{"top":"70px","left":"12px","width":"445px","min-height":"1187px"},"silex-id-1439547077940-26":{"border-radius":"","top":"91px","left":"11px","width":"423px","min-height":"617px"},"silex-id-1439547077532-22":{"top":"415px","left":"285px","width":"232px","min-height":"43px"},"silex-id-1439547076816-15":{"background-color":"rgba(2,24,57,0.803921568627451)","top":"1103px","left":"18px","width":"409px","min-height":"26px"},"silex-id-1471341923987-2":{"top":"201px","left":"11px","width":"423px","min-height":"867px"}}}]
+    </script>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2.2" data-silex-viewport="">
+
+
+    <!-- Silex HEAD tag do not remove -->
+    <!-- End of Silex HEAD tag do not remove -->
+</head>
+
+<body class="silex-id-1439547078652-33 dragging-pending silex-runtime" data-silex-id="silex-id-1439547078652-33" style="left: 0px; top: 0px;">
+
+    <div class="editable-style container-element silex-id-1439547078449-31 hide-on-mobile" data-silex-type="container" data-silex-id="silex-id-1439547078449-31"></div>
+
+    <div class="editable-style container-element silex-id-1439547078348-30 hide-on-mobile" data-silex-type="container" data-silex-id="silex-id-1439547078348-30">
+
+    </div>
+    <div class="editable-style container-element silex-id-1439547078142-28 hide-on-mobile" data-silex-type="container" data-silex-id="silex-id-1439547078142-28">
+        <div data-silex-type="image" class="editable-style silex-id-1478610004722-9 image-element" data-silex-id="silex-id-1478610004722-9"><img src="Midnight%20Shelter%20(Animated)%20Web%20Banner.gif" class="silex-element-content"></div>
+
+        <div class="editable-style container-element silex-id-1439547076512-12 hide-on-mobile" data-silex-type="container" data-silex-id="silex-id-1439547076512-12">
+
+
+
+
+
+            <div data-silex-type="text" class="editable-style silex-id-1478608826642-2 text-element" data-silex-id="silex-id-1478608826642-2" data-silex-href="#!page-donate">
+                <div class="silex-element-content normal">
+                    <div style="text-align: center;"><b style="font-family: Abel, sans-serif; color: rgb(255, 255, 255); font-size: large;">DONATE</b></div>
+                </div>
+            </div>
+            <div data-silex-type="text" class="editable-style silex-id-1478608634121-1 text-element page-link-active" data-silex-id="silex-id-1478608634121-1" data-silex-href="#!page-home">
+                <div class="silex-element-content normal">
+                    <div style="text-align: center;"><font color="#ffffff" size="4" face="arial, sans-serif"><b>HOME</b></font></div>
+                </div>
+            </div>
+            <div data-silex-type="text" class="editable-style silex-id-1478609118450-5 text-element" data-silex-id="silex-id-1478609118450-5" data-silex-href="#!page-contact-us">
+                <div class="silex-element-content normal">
+                    <div style="text-align: center;"><span style="font-family: Abel, sans-serif; color: rgb(255, 255, 255); font-size: large;"><b>CONTACT US</b></span></div>
+                </div>
+            </div>
+            <div data-silex-type="text" class="editable-style silex-id-1478609037120-4 text-element" data-silex-id="silex-id-1478609037120-4" data-silex-href="#!page-volunteer">
+                <div class="silex-element-content normal">
+                    <div style="text-align: center;"><span style="font-family: Abel, sans-serif; color: rgb(255, 255, 255);"><b><font size="4">VOLUNTEER</font></b></span></div>
+                </div>
+            </div>
+            <div data-silex-type="text" class="editable-style silex-id-1478608960677-3 text-element" data-silex-id="silex-id-1478608960677-3" data-silex-href="#!page-events">
+                <div class="silex-element-content normal">
+                    <div style="text-align: center;"><b style="font-family: Abel, sans-serif; color: rgb(255, 255, 255); font-size: large;">EVENTS</b></div>
+                </div>
+            </div>
+        </div>
+        <div data-silex-type="html" class="editable-style silex-id-1478611447273-0 html-element page-home paged-element" data-silex-id="silex-id-1478611447273-0">
+            <div class="silex-element-content">
+                <p>New HTML box</p>
+            </div>
+        </div>
+        <div data-silex-type="html" class="editable-style silex-id-1478611453814-1 html-element page-home paged-element" data-silex-id="silex-id-1478611453814-1">
+            <div class="silex-element-content">
+                <p>New HTML box</p>
+            </div>
+        </div>
+        <div data-silex-type="container" class="editable-style silex-id-1478693527468-0 container-element page-home paged-element" data-silex-id="silex-id-1478693527468-0"></div>
+        <div data-silex-type="image" class="editable-style silex-id-1478693644188-0 image-element page-home paged-element" data-silex-id="silex-id-1478693644188-0"><img src="Bird%20Trainer.jpg" class="silex-element-content"></div>
+        <div data-silex-type="image" class="editable-style silex-id-1478693662875-1 image-element page-home paged-element" data-silex-id="silex-id-1478693662875-1"><img src="Bird%20Trainer.jpg" class="silex-element-content"></div>
+        <div data-silex-type="container" class="editable-style silex-id-1478693748906-2 container-element page-home paged-element" data-silex-id="silex-id-1478693748906-2"></div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <div class="silex-pages">
+        <div data-silex-type="image" data-silex-id="silex-id-hamburger-menu" class="menu-button editable-style silex-id-hamburger-menu image-element page-page-1 paged-element prevent-draggable prevent-resizable"><img alt="open mobile menu" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAoCAYAAAC8cqlMAAAB5UlEQVR42u2ZPWvCUBSGM+UfFO3e3dLu/QN+oKj4EUXRQREEJYgoiCAu6qCogyDo7iJ21UUaKqEgCC4iiEMGB3UVgsnpTWj/wfVK2nvhGbKEPJyT996TMMzPGg6H5mKx+GgkyuWyeTQasb8OTDwef4tEIp8+n+/LYIjJZJJHQiwzm81M6OLDarWqNpsNjEYgEJCy2ewT0+/3TagighElNFAnQT6ft1ARKkJFqMgfFvF4PFpuEwFtdrcRqVarIIoirFYrIiyXSxiPx+B2u/GJBINBuF6vQHopigK1Wg2fCMdxcLlciIuoqgqNRgOfiN1uB3Qwg91uB8fjkQiHwwEmkwne1qLxS0VuKKJle71eh06nQ4Rmswk8z+MVcTqdsNlsQJZlotF7Pp8hk8ngE4lGo/qN7xG/vV4Pb0Xm8zlxkdPpBGgMx/+yJxIJKBQKRMjlcuBwOGhq/Q+RcDgMsViMCFrAuFwu/CKDwQC22y1IkkSE/X4PgiDo+xc2Ea0S9zjGa/Hb7Xbxifj9fj0K7yFSqVTwtlY6nYbpdKpPiSRYLBbQarX0PYymFhWhIlSEilCRW6GdyUqlkoVZr9dsKpXiOY6TtW+7BkNBz/7ebrcf9L+6Xq+XRYPMMyrTq5EIhUIvaAjTJb4BBNQ2yhnth0wAAAAASUVORK5CYII="
+            class="silex-element-content"></div><a id="page-home" data-silex-type="page" class="page-element page-link-active">Home</a><a id="page-donate" data-silex-type="page" class="page-element">Donate</a><a id="page-events" data-silex-type="page"
+        class="page-element">Events</a><a id="page-volunteer" data-silex-type="page" class="page-element">Volunteer</a><a id="page-contact-us" data-silex-type="page" class="page-element">Contact Us</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
