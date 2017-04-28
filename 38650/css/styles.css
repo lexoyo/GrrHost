@@ -1,0 +1,154 @@
+
+        .body-initial {
+            background-color: rgba(255, 255, 255, 1);
+        }
+        
+        .silex-id-1478366444112-1 {
+            top: 0px;
+            left: 0px;
+            background-color: rgba(255, 3, 27, 1);
+            min-width: 1200px;
+            border-width: 100px 100px 100px 100px;
+            border-style: solid;
+        }
+        
+        .silex-id-1478366444112-0 {
+            min-height: 681px;
+            background-color: rgba(5, 11, 14, 0.8666666666666667);
+            width: 1200px;
+            background-image: url('../assets/MOARnewest.jpg');
+            top: 15px;
+            left: 150px;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: top center;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1478366444112-0 {
+                top: 15px;
+                left: 7px;
+                width: 248px;
+                min-height: 142px;
+            }
+        }
+        
+        .silex-id-1474394621033-3 {
+            top: 907px;
+            left: 0px;
+            background-color: transparent;
+            border-width: 100px 100px 100px 100px;
+            border-style: solid;
+            min-width: 1200px;
+        }
+        
+        .silex-id-1474394621032-2 {
+            min-height: 663px;
+            background-color: rgba(255, 255, 255, 1);
+            width: 1200px;
+            top: 15px;
+            left: 150px;
+            opacity: 1;
+        }
+        
+        .silex-id-1493039463921-3 {
+            min-height: 581px;
+            width: 995px;
+            top: 52px;
+            left: 88px;
+            opacity: 0.1;
+        }
+        
+        .silex-id-1493039567119-4 {
+            min-height: 648px;
+            width: 1229px;
+            top: -9px;
+            left: -36px;
+        }
+        
+        .silex-id-1478366450713-3 {
+            top: 1799px;
+            left: 0px;
+            background-color: rgba(16, 33, 243, 0.9686274509803922);
+            border-width: 100px 100px 100px 100px;
+            border-style: solid;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1478366450713-3 {
+                top: 3408px;
+                left: 0px;
+            }
+        }
+        
+        .silex-id-1478366450713-2 {
+            min-height: 488px;
+            background-color: transparent;
+            width: 1200px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1478366450713-2 {
+                min-height: 28185px;
+            }
+        }
+        
+        .silex-id-1493045447392-5 {
+            min-height: 330px;
+            width: 411px;
+            top: 78px;
+            left: 414px;
+        }
+        
+        .silex-id-1493058616772-7 {
+            min-height: 306px;
+            width: 414px;
+            top: 63px;
+            left: 898px;
+        }
+        
+        .silex-id-1493065915478-9 {
+            min-height: 74px;
+            width: 918px;
+            top: -9px;
+            left: 160px;
+        }
+        
+        .silex-id-1493073464763-10 {
+            min-height: 44px;
+            width: 416px;
+            top: 28px;
+            left: 410px;
+        }
+        
+        .silex-id-1493073579009-11 {
+            min-height: 24px;
+            width: 200px;
+            top: 457px;
+            left: 591px;
+        }
+        
+        .silex-id-1493056423735-6 {
+            min-height: 340px;
+            width: 530px;
+            top: 75px;
+            left: 38px;
+        }
+        
+        .silex-id-1493064010864-8 {
+            min-height: 56px;
+            width: 1102px;
+            top: 451px;
+            left: 359px;
+        }
+        
+        .silex-id-1493382014032-0 {
+            min-height: 62px;
+            width: 271px;
+            top: 450px;
+            left: 34px;
+        }
+    
