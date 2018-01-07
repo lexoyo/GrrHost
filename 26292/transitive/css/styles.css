@@ -1,0 +1,185 @@
+
+        /* *
+
+.silex-runtime .homepage-hero {
+    border-right: none;
+    border-left: none;
+    position: relative;
+}
+
+
+/* */
+        
+        div.video-container {
+            width: 100%;
+            overflow: hidden;
+        }
+        
+        .video-container video {
+            -moz-transform: translateX(50%) translateY(50%);
+            -webkit-transform: translateX(50%) translateY(50%);
+            -ms-transform: translateX(50%) translateY(50%);
+            transform: translateX(50%) translateY(50%);
+            position: absolute;
+            bottom: 50%;
+            right: 50%;
+            width: auto;
+            height: auto;
+            min-width: 100%;
+            min-height: 100%;
+            overflow: hidden;
+        }
+    
+        .body-initial {
+            background-color: rgba(166, 166, 166, 1);
+        }
+        
+        .silex-id-1478366444112-1 {
+            top: 5px;
+            left: 5px;
+            background-color: rgba(0, 0, 0, 1);
+            min-width: 1200px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1478366444112-1 {
+                top: 60px;
+                left: 0px;
+            }
+        }
+        
+        .silex-id-1509831230087-0 {
+            width: 1400px;
+            background-color: transparent;
+            min-height: 927px;
+            top: 0px;
+            left: 0px;
+        }
+        
+        .silex-id-1478366444112-0 {
+            min-height: 904px;
+            background-color: transparent;
+            width: 1200px;
+            top: 15px;
+            left: 194px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1478366444112-0 {
+                min-height: 535px;
+                background-image: url('../assets/City-Nights.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center center;
+            }
+        }
+        
+        .silex-id-1509831489516-1 {
+            width: 650px;
+            min-height: 132px;
+            top: 328px;
+            left: 276px;
+            background-color: transparent;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1509831489516-1 {
+                left: 23px;
+                top: 2736px;
+            }
+        }
+        
+        .silex-id-1509836425770-2 {
+            width: 264px;
+            min-height: 51px;
+            top: 511px;
+            left: 472px;
+            background-color: rgba(43, 75, 152, 1);
+            border-radius: 10px 10px 10px 10px;
+        }
+        
+        .silex-id-1509832687330-1 {
+            min-width: 1200px;
+        }
+        
+        .silex-id-1509832687330-0 {
+            width: 1200px;
+            min-height: 93px;
+            top: 15px;
+            left: 194px;
+        }
+        
+        .silex-id-1474394621033-3 {
+            top: 5px;
+            left: 0px;
+            background-color: rgba(166, 166, 166, 1);
+            min-width: 1200px;
+        }
+        
+        .silex-id-1474394621032-2 {
+            min-height: 914px;
+            background-color: rgba(255, 255, 255, 1);
+            width: 1200px;
+            top: 15px;
+            left: 100px;
+        }
+        
+        .silex-id-1509832800006-4 {
+            width: 1201px;
+            min-height: 360px;
+            top: 0px;
+            left: 0px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1509832800006-4 {
+                top: 19px;
+                left: 11px;
+                width: 419px;
+                min-height: 216px;
+            }
+        }
+        
+        .silex-id-1509832922476-5 {
+            width: 666px;
+            min-height: 132px;
+            top: 425px;
+            left: 256px;
+        }
+        
+        .silex-id-1509835752372-0 {
+            width: 1140px;
+            min-height: 325px;
+            top: 562px;
+            left: 29px;
+            border-width: 1px 0 0 0;
+            border-style: solid;
+            border-color: rgba(132, 132, 132, 1);
+        }
+        
+        .silex-id-1478366450713-3 {
+            top: 100px;
+            left: NaNpx;
+            background-color: transparent;
+            min-width: 1200px;
+        }
+        
+        .silex-id-1478366450713-2 {
+            min-height: 411px;
+            background-color: transparent;
+            width: 1200px;
+            top: 15px;
+            left: 194px;
+        }
+        
+        .silex-id-1442914737143-3 {
+            min-height: 53px;
+            width: 596px;
+            top: 177px;
+            left: 305px;
+        }
+    
